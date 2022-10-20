@@ -9,7 +9,7 @@
 - 📫 Contact me by gymgym@88.com
 
 <details>
-<summary>我的开源项目简介</summary>
+<summary>My open source project profile</summary>
   
 1. Java Series
   - [Java_Stu](https://github.com/turbogym/Java_Stu)
