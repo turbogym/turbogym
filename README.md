@@ -1,16 +1,16 @@
 ## 👋 Hi!
 
-<div align="center">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=turbogym&show_icons=true&bg_color=30,e0c3fc,8ec5fc&title_color=fff&text_color=fff&icon_color=fff&count_private=true&hide=prs">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbogym&layout=compact" />
-</div>
-
 - 🧑‍💻 I’m @TurboGYM
 - 🏠 I’m from Nanjing
 - 👀 I’m interested in Travel, Photography ...
 - 🌱 Recently learning a lot of things
 - 🚀 Welcome to my website byonecup.com
 - 📫 Contact me by gymgym@88.com
+
+<div align="center">
+  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=turbogym&show_icons=true&bg_color=30,e0c3fc,8ec5fc&title_color=fff&text_color=fff&icon_color=fff&count_private=true&hide=prs">
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbogym&layout=compact" />
+</div>
 
 <details>
 <summary>My open source project profile</summary>
