@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=turbogym&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=turbogym&show_icons=true&bg_color=30,e0c3fc,8ec5fc&title_color=fff&text_color=fff&icon_color=fff">
 
 - 👋 Hi, I’m @TurboGYM
 - 🏠 I’m from Nanjing
