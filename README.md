@@ -1,10 +1,22 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=turbogym&show_icons=true&bg_color=30,e0c3fc,8ec5fc&title_color=fff&text_color=fff&icon_color=fff">
 
-- 👋 Hi, I’m @TurboGYM
+### 👋 Hi!
+- 🧑‍💻 I’m @TurboGYM
 - 🏠 I’m from Nanjing
 - 👀 I’m interested in Travel, Photography ...
 - 🌱 Recently learning a lot of things
+- 🚀 Welcome to my website byonecup.com
 - 📫 Contact me by gymgym@88.com
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbogym">
+
+<details>
+<summary>我的开源项目简介</summary>
+  
+1. Java Series
+  - [Java_Stu](https://github.com/turbogym/Java_Stu)
+
+</details>
 
 <!---
 turbogym/turbogym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
