@@ -8,8 +8,6 @@
 - 🚀 Welcome to my website byonecup.com
 - 📫 Contact me by gymgym@88.com
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbogym">
-
 <details>
 <summary>我的开源项目简介</summary>
   
