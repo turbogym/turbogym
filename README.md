@@ -15,7 +15,9 @@
 <details>
 <summary>My open source project profile</summary>
   
-1. Java Series
+1. GuidePage
+  - [GuidePage](https://github.com/turbogym/HomePage)
+2. Java Series
   - [Java_Stu](https://github.com/turbogym/Java_Stu)
 
 </details>
