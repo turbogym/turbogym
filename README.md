@@ -19,6 +19,7 @@
   - [GuidePage](https://github.com/turbogym/HomePage)
 2. Java Series
   - [Java_Stu](https://github.com/turbogym/Java_Stu)
+  - [Spring6_Stu](https://github.com/turbogym/Spring6_Stu)
 
 </details>
 
